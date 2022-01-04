@@ -22,4 +22,7 @@ The following are the platforms in which we specialize:
 <li><a href="https://www.youtube.com/channel/UCLMZzhZk52Je8_RuMATk8iw" rel="nofollow">YouTube</a></li>
 <li><a href="https://stackoverflow.com/users/17642642/futk-private-limited" rel="nofollow">Stack Overflow </a></li>
 <li><a href="https://www.instagram.com/futk_private_limited/" rel="nofollow">Instagram </a></li>
+  
+<li><a href="https://www.linkedin.com/company/futk-private-limited/mycompany/" rel="nofollow">LinkedIn</a></li>
+<li><a href="https://in.pinterest.com/futkprivatelimited/_created/" rel="nofollow">Pinterest </a></li>
 </ul>
