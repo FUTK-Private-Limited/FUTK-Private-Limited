@@ -12,13 +12,18 @@ The following are the platforms in which we specialize:
   - Flyers & Brochures
   - CRM
   - Digital Marketing
+
+
+<h3 dir="auto" align="center">🔗&nbsp;Links:</h3>
+<p dir="auto" align="center"><strong>🌐&nbsp;<a href="https://futk.co/" rel="nofollow">futk.co</a></strong></p>
+<p dir="auto" align="center"><strong>📧&nbsp;<a href="mailto:info@futk.co">info@futk.co</a></strong></p>
+ 
+
+
 <h3 dir="auto">
 <a id="user-content-follow-me" class="anchor" href="https://github.com/darekkay#follow-me" aria-hidden="true"></a>Follow me</h3>
 <ul dir="auto">
 
-  <h3 dir="auto" align="center">🔗&nbsp;Links:</h3>
-<p dir="auto" align="center"><strong>🌐&nbsp;<a href="https://futk.co/" rel="nofollow">futk.co</a></strong></p>
-<p dir="auto" align="center"><strong>📧&nbsp;<a href="mailto:info@futk.co">info@futk.co</a></strong></p>
   
 <li><a href="https://twitter.com/FuTkPvtLtd" rel="nofollow">Twitter</a></li>
 <li><a href="https://www.facebook.com/FUTKPrivateLimited" rel="nofollow">Facebook</a></li>
